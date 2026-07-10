@@ -72,6 +72,8 @@
 
   - (原版为SC) 贪婪 - Greed - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
+  - (原版为SC) 创世 - Creation - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+
   - (原版为SC) 无尽拓展v2 - Reconfiguration - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
   - (原版为SC) 星辰科技 - XingCheng_Craft - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
@@ -80,7 +82,7 @@
 
   - (原版为SC) 湮灭科技 - AnnihilationTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-  - (原版为SC) 火山科技 - HuoShanTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+  - (原版为SC) 火山工艺 - HuoShanTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
   - 简单科技 - SimpleTech - 未找到相关资源链接（曾在[魔芋服务器 - 783629843](https://qm.qq.com/q/UsGovcMU02)中存在）
 
@@ -128,7 +130,7 @@
 
   - [湮灭科技 - Annihilation_Tech](https://github.com/Assisanter138/Annihilation_Tech)
 
-  - 亚星计划 - AsianStarProgram - 在QQ群 606776359 中群文件，需自行下载
+  - 亚星计划 - AsianStarProgram - 在QQ群 606776359 或 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
   - 工业驱动 - snion - 在QQ群 [582922024](https://qm.qq.com/q/e6VzosVepy) 中群文件，需自行下载
 

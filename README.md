@@ -18,7 +18,9 @@
 
   - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech)
 
-  - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech)
+  - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) 该附属存在过后门事件，请谨慎使用
+  
+  - <img width="469" height="520" alt="QQ_1783790323191" src="https://github.com/user-attachments/assets/2249d0f5-a923-4a50-bd87-cf4a1d79123b" />
 
   - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: [859957646](https://qm.qq.com/q/jbnsIMiQj8))
 

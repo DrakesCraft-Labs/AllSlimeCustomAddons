@@ -1,160 +1,41 @@
+<p align="center">
+  <img src="docs/banner.svg" width="100%" alt="ALLSLIMECUSTOMADDONS Animated Banner" />
+</p>
+
 # AllSlimeCustomAddons
 
-所有的配置文件均由相关作者在 GitHub 或 QQ 群公开提供，此仓库仅列出这些配置文件的链接，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
+Repositorio de **configuraciones, recetas, items personalizados y modelos de investigación** para addons de Slimefun basados en configuraciones YAML y SlimeCustomizer. Mantenido y auditado por **DrakesCraft Labs** para Paper/Purpur 1.21.11 en Java 21.
 
-# RSC 附属
+---
 
-  - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2)
+## 🎯 Objetivo
 
-  - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech)
+Centralizar, depurar y estructurar configuraciones de addons comunitarios, asegurando que no contengan IDs en conflicto, puertas traseras o recetas rotas antes de integrarse al entorno de producción de DrakesCraft.
 
-  - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend)
+---
 
-  - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste)
+## ⚡ Estructura y Contenidos
 
-  - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher)
+- **Configuraciones de SlimeCustomizer**:
+  - Árboles de crafteo, generadores temáticos y máquinas de eventos.
+- **Auditoría de Seguridad**:
+  - Exclusión de addons no verificados o con riesgos de seguridad conocidos.
+- **Traducción y Estandarización**:
+  - Normalización de nombres, descripciones y compatibilidad con `Slimefun4-Drake`.
 
-  - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC)
+---
 
-  - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech)
+## 🛠️ Entorno y Compatibilidad
 
-  - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) 该附属存在过后门事件，请谨慎使用
-  
-  - <img width="469" height="520" alt="QQ_1783790323191" src="https://github.com/user-attachments/assets/2249d0f5-a923-4a50-bd87-cf4a1d79123b" />
+- **Servidor**: Paper / Purpur 1.21.11
+- **Java**: 21
+- **Dependencias**:
+  - `Slimefun4-Drake`
+  - `SlimeCustomizer`
 
-  - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: [859957646](https://qm.qq.com/q/jbnsIMiQj8))
+---
 
-  - DFD - 缘落科技 - DFD_Expand - 在缘落之梦服务器中存在 (服务器QQ群号: [859957646](https://qm.qq.com/q/jbnsIMiQj8))
+## 📜 Créditos
 
-  - 方块树 - Blocktreetech - 在方块树服务器中存在 (服务器QQ群号: [953283758](https://qm.qq.com/q/KphcaUqEEY))
-
-  - TinCraft - TinCraft - 在TinCraft服务器中存在 (服务器旧QQ群号: [995464121](https://qm.qq.com/q/BOGPW2oc6W))
-
-  - [浮木科技 - fm_tech](https://github.com/Yomicer/FM_TECH_RSC)
-
-  - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
- 
-  - [云启文明 - RSC_YunQi_History](https://github.com/Yunsheng999/YunQi_history)
- 
-  - (原版为SC) [箔澜星(改版) - TinselStar](https://github.com/lengshang666/TinselStar)
- 
-  - 口木科技 - Komutech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
- 
-  - 起源工艺 - OriginTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
- 
-  - fvv_Tech - fvvtech - 在暮舟服务器中存在 (服务器QQ群号: [730502518](https://qm.qq.com/q/TX3wLbE8cG))
- 
-  - 飞龙科技 - AeroDragonTech - 在暮舟服务器中存在 (服务器QQ群号: [730502518](https://qm.qq.com/q/TX3wLbE8cG))
- 
-  - 沐莱物语 - REGS - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
- 
-  - [风起科技 - FengQi_Tech](https://github.com/LuoYe5555/FengQiTech)
- 
-  - [暮舟科技 - MuzhouTech](https://github.com/balugaq/MuzhouTech)
-
-  - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion)
-
-  - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2)
-
-  - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion)
-
-  - AG科技 - AgTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - 生物科技 - MobTech(MT) - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 波奇科技 - Bocchitechnoloy - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 大蛇科技 - BigSnake-Tech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 工业驱动 - snion - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 矿物科技 - OreTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 落叶科技 - DefoLiationTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 贪婪 - Greed - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 创世 - Creation - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 无尽拓展v2 - Reconfiguration - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 星辰科技 - XingCheng_Craft - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 亚星计划 - AsianStarProgram - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 湮灭科技 - AnnihilationTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - (原版为SC) 火山工艺 - HuoShanTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - 简单科技 - SimpleTech - 未找到相关资源链接（曾在[魔芋服务器 - 783629843](https://qm.qq.com/q/UsGovcMU02)中存在）
-
-  - GLTC联合协议 - GLTC121 - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - 樱沫科技 - YINGMO - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - 熊猫科技 - PandaTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-# SC 附属
-
-  - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2)
-
-  - [无尽拓展V2 - InfiniteExtensionV2](https://github.com/HuoSJ7820/InfiniteExtensionV2)
-
-  - [橘子科技 - OrangeTech](https://github.com/duoduojuzi/OrangeTech) - 仓库不公开，仅在暮舟科技中存在
-
-  - [贪婪 - Greed](https://github.com/HuoSJ7820/GreedAndCreation/tree/main/Greed/SlimeCustomizer)
-
-  - [创世 - Creation](https://github.com/HuoSJ7820/GreedAndCreation/tree/main/Creation/SlimeCustomizer)
-
-  - [落叶科技 - DefoliationTech](https://github.com/LuoYe5555/DefoLiationTech)
-
-  - [波奇科技 - Bocchi_Technology](https://github.com/bocchiyigexu/Bocchi_Technology)
-
-  - [矿物科技 - OreTech](https://github.com/HiTech0926/SC-OreTech)
-
-  - [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) 注: 根据 [Hi世界说明书](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer/blob/main/items.yml#L10): [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) **未经允许禁止在其他服务器发布**
-
-  - [星辰工艺 - XingCheng_Craft](https://github.com/fengxiangQAQ/XingCheng_Craft)
-
-  - [生物科技 - HLGTech](https://github.com/bocchiyigexu/SHENGWUTECH)
-
-  - [矿物生成器拓展 - OreGenerationExtension](https://github.com/HuoSJ7820/OreGenerationAndExtension/tree/main/SlimeCustomizer)
-
-  - [无尽拓展V2增强版 -  InfiniteExtensionV2-Reconfiguration](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
-
-  - [SC修复站 - SlimeCustomizerRepairStation](https://github.com/HuoSJ7820/SlimeCustomizerRepairStation)
-
-  - [倾斜科技 - AngleTech](https://github.com/1368139692/AngleTech)
-
-  - [头颅版量子存储 - HeadQuantumStorage](https://github.com/HuoSJ7820/HeadQuantumStorage)
-
-  - [更多奇特的工具 - MoreUniqueTools](https://github.com/HuoSJ7820/MoreUniqueTools)
-
-  - [湮灭科技 - Annihilation_Tech](https://github.com/Assisanter138/Annihilation_Tech)
-
-  - 亚星计划 - AsianStarProgram - 在QQ群 606776359 或 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
-
-  - 工业驱动 - snion - 在QQ群 [582922024](https://qm.qq.com/q/e6VzosVepy) 中群文件，需自行下载
-
-  - 黑鱼科技 - BlackFishTech - 未找到相关资源链接，仅在暮舟科技中存在
-
-  - AG科技 - AGTech - 在QQ群 [156188351](https://qm.qq.com/q/4VDyiFLIog) 中群文件，需自行下载
-
-  - [天璇科技 - MerakCraft](https://github.com/haiman233/MerakCraft)
-
-  - [宇宙科技](https://github.com/haiman233/HaimanTech-OldVersions/tree/main/%E4%B8%8A%E5%8F%A4%E7%89%88%E5%AE%87%E5%AE%99%E7%A7%91%E6%8A%80)
-
-  - [旧版海曼科技 - HaimanTech](https://github.com/haiman233/HaimanTech-OldVersions)
-
-  - [箔澜星 - TinselStar](https://github.com/haiman233/TinselStar)
-
-  - [大蛇科技 - BigSnake-Tech](https://github.com/haiman233/Slimefun4_Integration_package/tree/main/server/plugins/RykenSlimefunCustomizer/addons/BigSnake-Tech)
-
-  - AkyierWorld物品 - 未找到相关资源链接，仅在暮舟科技中存在
-
-  - 幻冕科技 - 未找到相关资源链接
-
-
-将SC转为RSC需使用 [SC-to-RSC](https://github.com/balugaq/SC-to-RSC)
-
-如有侵权请联系 balugaq@qq.com
+- **Comunidad Slimefun & Creadores de Configuraciones**
+- **Curaduría y Auditoría**: **DrakesCraft Labs**
